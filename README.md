@@ -190,6 +190,17 @@ The model achieves robust performance in credit risk classification:
 - **F1-Score**: ~0.80-0.85 for high-risk class identification
 - **Precision/Recall**: Balanced metrics for risk assessment
 
+### Performance Metrics Visualizations
+
+#### Precision Over Epochs
+![Precision Plot](images/precision_plot.png)
+
+#### Recall Over Epochs
+![Recall Plot](images/recall_plot.png)
+
+#### F1 Score Over Epochs
+![F1 Score Plot](images/f1_score_plot.png)
+
 ## Contributing
 
 1. Fork the repository
