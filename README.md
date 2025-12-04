@@ -209,16 +209,6 @@ The model achieves robust performance in credit risk classification:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- German Credit Dataset from UCI Machine Learning Repository
-- Implementation inspired by advanced ML techniques in financial risk assessment
-- Bio-inspired optimization algorithms for feature selection
-
 ## Contact
 
 For questions or feedback, please open an issue in the repository.
